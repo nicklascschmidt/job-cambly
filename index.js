@@ -4,7 +4,7 @@
  *          - turns array of words into an obj with the word and its frequency (e.g. { [word]: freq } )
  *          - sorts the unique words first alphabetically (asc), then by frequency (desc)
  *          - logs each word to the console
- * @param {string} string - sentences that contain alphanumeric chars and standard punctuation
+ * @param {string} str - sentences that contain alphanumeric chars and standard punctuation
  *          - assumes that strings with hyphens (-) and underscores (_) are valid
  *          - assumes only single spaces are used (i.e. no tabs, line breaks, etc.)
  * @returns {void}
